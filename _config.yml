@@ -1,0 +1,4 @@
+include:
+- '.well-known/'
+- '.well-known/openid-configuration'
+- '.well-known/jwks.json'
