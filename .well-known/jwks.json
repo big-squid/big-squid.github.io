@@ -1,3 +1,4 @@
 {"keys":[
     {"kid":"GkNIquAbhAnEV3ncQpB4K2eolkf55SrvNl9HGSajm5E","use":"sig","e":"AQAB","kty":"RSA","n":"yfutz6r9PcaV9o_nzwkOGwBmBCX4a8MLGRmtJjeK6p_Y5lPN-SAHgwUEhRGQZ8jg6OqGF03-sbElslM1VUbjMCSsdWgeeECIrgIUVLrvnm2DLLtnATtRXUd-mebAG0Tn1JNZy7t9_Mi38XfMh0VBHWS65jfUcINrpgCVs2LavbTLMkETA5y_gB1y7PJckm2eYjbuzg1za_i4KzV0M6vztoRLk_J5TLlkMJf-mNAWFl5bHwX6zSPE99FtaLoC4VpqC-uvQ9xrhB-1oC71ro6qz2ozfSlazoqV1ZrjKeO0jUYlol7LcfwW39CZpLdHMt2JTDbS_4ZGB62O62auHexisQ"}
+  , {"kid":"bJiCcZHuAF9dDetKEdGjJU3pFvFLoB_QHe9_6cAuY8c","use":"sig","crv":"P-256","kty":"EC","x":"IT1SWLxsacPiE5Z16jkopAn8_-85rMjgyCokrnjDft4","y":"mP2JwOAOdMmXuwpxbKng3KZz27mz-nKWIlXJ3rzSGMo"}
 ]}
