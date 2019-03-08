@@ -1,3 +1,3 @@
 { "issuer": "https://big-squid.github.com/"
-, "jwks_uri": "https://big-squid.github.com/.well-known/jwks.json"
+, "jwks_uri": "https://big-squid.github.io/.well-known/jwks.json"
 }
