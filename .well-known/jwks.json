@@ -1,5 +1,5 @@
 {"keys":[
     {"kid":"GkNIquAbhAnEV3ncQpB4K2eolkf55SrvNl9HGSajm5E","kty":"RSA","use":"sig","e":"AQAB","n":"yfutz6r9PcaV9o_nzwkOGwBmBCX4a8MLGRmtJjeK6p_Y5lPN-SAHgwUEhRGQZ8jg6OqGF03-sbElslM1VUbjMCSsdWgeeECIrgIUVLrvnm2DLLtnATtRXUd-mebAG0Tn1JNZy7t9_Mi38XfMh0VBHWS65jfUcINrpgCVs2LavbTLMkETA5y_gB1y7PJckm2eYjbuzg1za_i4KzV0M6vztoRLk_J5TLlkMJf-mNAWFl5bHwX6zSPE99FtaLoC4VpqC-uvQ9xrhB-1oC71ro6qz2ozfSlazoqV1ZrjKeO0jUYlol7LcfwW39CZpLdHMt2JTDbS_4ZGB62O62auHexisQ"}
   , {"user":"jfriedman@bigsquid.com","kty":"EC","crv":"P-256","x":"A4tazEDYdz9sT-IznnvTwy902yNXoWhcsZQ_qSw7rjo","y":"Pr8KZCIonHPt5CPL2dWEfz60JtOnm_YUR114V9uunLQ","use":"sig","kid":"j0POK9ztMBBVAmFvApktu9KIZF8v0AWQZWBnHsQcryc","exp":21600}
-  , {"user": "aoneal@bigsquid.com","kty":"EC","crv":"P-256","x":"9f4CnilIO19VHvGAp67AMNhtJFquOtbao6OZEN5Bzy8","y":"lajJFZ4Mx3KzhUeS2rYF9NKWHDh_M5KlCMjHWoltoI0","kid":"qCDiKfcfT133JA9BjjI2MWwI6RRFTy_KBXet9Cse-Pg","exp":21600,"use":"sig"}
+  , {"user":"aoneal@bigsquid.com","kty":"EC","crv":"P-256","x":"_ZqI1DNH7lutr801u0r92xrN_kKqKDUUOWLK6FuRto8","y":"OTZQGFBHROPtf35jlBaIIXounUCt6GSZ3pghl1Z735w","kid":"bhuyRUAiPUyPkdLu5JIM60Urh8X1oDGxp4w6SBY5vuU","use":"sig"}
 ]}
